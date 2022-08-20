@@ -20,3 +20,6 @@ In short, you decide. Here are the "features":
 
 # Downloads
 Check out the [Releases Page](https://github.com/CactiChameleon9/PONG-Godot/releases)
+
+# License
+This project is under the GNU GPLv3 license
