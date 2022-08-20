@@ -6,7 +6,7 @@ The classic game PONG! made in Godot
 # Why?
 I was too tired to do some actual work, so I made this one evening instead
 
-# Would I recommend you play this version of PONG?
+# Would I recommend you play this version of PONG!?
 In short, you decide. Here are the "features":
 - It has quite slow acceleration on the paddle which can make things interesting (imagine on ice)
 - I think the UI is alright
@@ -19,4 +19,4 @@ In short, you decide. Here are the "features":
 - Gamepad/Keyboard supported
 
 # Downloads
-Check out the [Releases Page](https://github.com/CactiChameleon9/PONG-Godot/Releases)
+Check out the [Releases Page](https://github.com/CactiChameleon9/PONG-Godot/releases)
